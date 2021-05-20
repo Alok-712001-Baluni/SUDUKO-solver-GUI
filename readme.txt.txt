@@ -1,4 +1,4 @@
-I have solved this problem using backtracting. 
+I have solved this problem using backtracking. 
 Press space to watch the algorithm solving the problem step by step.
 If you're solving this problem manually then you can't backtrack. 
 So you have to insert the right value at the selected position. 
